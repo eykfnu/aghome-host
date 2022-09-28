@@ -3,7 +3,7 @@
 ||jupiter.sys.miui.com^
 ||preview-jupiter.sys.miui.com^
 ||update.miui.com^
-||.pt.miui.srv^
+||rom.pt.miui.srv^
 ||ccc.sys.miui.com^
 ||cc.sys.miui.com^
 ||ccc.sys.intl.xiaomi.com^
