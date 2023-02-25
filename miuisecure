@@ -1,4 +1,11 @@
+#此处主要屏蔽小米云扫描组件
 ||miav-cse.avlyun.com^
 ||miui-fxcse.avlyun.com^
 ||api.installer.xiaomi.com^
 ||a0.app.xiaomi.com^
+||tmfsdk.m.qq.com^
+||sdkconf.avlyun.com^
+||logupdate.avlyun.sec.miui.com^
+||ixav-cse.avlyun.com^
+||update.avlyun.sec.miui.com^
+||log.avlyun.sec.intl.miui.com^
