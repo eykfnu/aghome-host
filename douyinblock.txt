@@ -9,3 +9,9 @@
 ||huoshan.com^
 ||iesdouyin.com^
 ||bytecdn.cn^
+||ixiguavideo.com
+||idouyinvod.com
+||douyinvod.com
+||douyinstatic.com
+||douyinpic.com
+||douyincdn.com
